@@ -1,0 +1,17 @@
+.image{
+    height: 200px;
+    width: 200px;
+    /* background-color: purple; */
+    margin-top: 200px;
+    margin-right: auto;
+    margin-left: auto;
+    background: url('./DevBeatsDesigns.png');
+    background-position: center;
+    background-image: stretch;
+}
+
+.image-text {
+    color: white;
+    padding-top: 90px;
+    text-align: center;
+}

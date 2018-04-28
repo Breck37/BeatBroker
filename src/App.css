@@ -1,0 +1,93 @@
+.App {
+  text-align: center;
+ 
+  
+}
+
+.App-header {
+  height: 300px;
+  padding: 20px;
+  background-image: url("https://www.ladislavbrezovnik.com/wp-content/uploads/2017/08/decks_thin-2000x500.jpg");
+  background-repeat: no-repeat;
+  background-size: fill;
+  
+  /* color: white; */
+  display: flex;
+  justify-content: space-between;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+
+}
+
+/* @keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+} */
+
+/* div {
+  background-color: rgb(142, 142, 142);
+} */
+
+footer{
+  background-color: rgb(142, 142, 142);
+  height: 300px;
+  padding: 200px;
+}
+
+.innerdiv {
+  height: 30px;
+  width: 100%;
+  background-color: #b760e6;
+}
+
+.innerdiv2 {
+  width: 100vw;
+  height: 30px;
+  background-color: #b760e6;
+}
+
+.top-contents {
+  float: right;
+  text-align: center;
+  /* color: Purple; */
+}
+
+.input {
+  color: #ffffff;
+  font-size: 16px;
+  float: left;
+}
+
+input.input {
+  background: none;
+}
+
+h2 {
+  color: #622e7e;
+}
+
+.title {
+  color: rgb(142, 142, 142);
+  margin-top: 30px;
+  font-family: 'Times New Roman', Times, serif
+}
+
+.subtitle {
+  color: #b760e6;
+  margin-top: 0px;
+}
+
+.search {
+  background-color: rgb(142, 142, 142);
+  padding-top: 50px;
+}
+
+.display {
+  box-shadow: 22px 15px 34px 0px rgba(0,0,0,0.36);
+}

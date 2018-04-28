@@ -1,0 +1,8 @@
+.head-image{
+    height: 200px;
+    width: 420px;
+    background-color: purple;
+    /* background-position: center; */
+    background: url('./DevBeat.png');
+    background-position: center;
+}
