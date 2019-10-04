@@ -9,7 +9,7 @@
     "body-parser": "^1.18.2",
     "cors": "^2.8.4",
     "express": "^4.16.2",
-    "react": "^16.8.6",
+    "react": "^16.10.2",
     "react-dom": "^16.2.1",
     "react-scripts": "3.0.1",
     "react-select": "^3.0.4"
